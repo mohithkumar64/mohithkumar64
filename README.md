@@ -1,13 +1,15 @@
 # Hi there, I'm Mohith Kumar 👋
 
-Building digital products, mobile applications, and backend systems. Founder at **[mXbyte](https://mxbyte.in)**.
+Building digital products, mobile applications, and scalable backend systems.  
+Founder at **[mXbyte](https://mxbyte.in)** & Creator of **[Chocoloom](https://chocoloom.com)**.
 
 ---
 
-### 🚀 What I'm Working On
-- 💻 Full-stack web and mobile development (Android, TypeScript, JavaScript)
-- ⚙️ Backend architectures, cloud databases (Supabase), and workflow automation
-- 🤖 Building AI-assisted platforms and hackathon projects
+### 🚀 What I'm Building & Managing
+- 🍫 **[Chocoloom](https://chocoloom.com)** — Custom artisan chocolates, desserts, and curated gift hampers.
+- 🌐 **[mXbyte](https://mxbyte.in)** — Product design, software development, and tech solutions.
+- 📱 Full-stack web & mobile apps (Android, TypeScript, JavaScript).
+- ⚙️ Backend infrastructure, cloud databases (Supabase), and automated workflows.
 
 ---
 
@@ -27,5 +29,5 @@ Building digital products, mobile applications, and backend systems. Founder at 
 ---
 
 ### 📬 Connect With Me
-- 🌐 Website: [mxbyte.in](https://mxbyte.in)
+- 🌐 Ventures: [mxbyte.in](https://mxbyte.in) • [chocoloom.com](https://chocoloom.com)
 - ✉️ Email: mohithkumar923@gmail.com
