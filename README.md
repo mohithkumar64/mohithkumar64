@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Reliable SVG Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=100&lines=MOHITH+KUMAR" alt="Mohith Kumar" />
+<!-- Uploaded Custom Banner -->
+<img src="./Mohith's%20Linkedin%20Banner.png" alt="Mohith Kumar Banner" width="100%" />
 
 <!-- Animated Typing Subheading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=94A3B8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+Founder+at+mXbyte+%26+Chocoloom;Building+Web%2C+Android+%26+Cloud+Solutions;Hackathon+Builder+%26+Creative+Designer" alt="Subheading Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%7C+Founder+at+mXbyte+%26+Chocoloom;Building+Web%2C+Android+%26+Cloud+Solutions;Hackathon+Builder+%26+Creative+Designer" alt="Subheading Typing" />
 </p>
 
 <!-- Status & Visitor Badges -->
